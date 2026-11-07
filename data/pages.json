@@ -1,2 +1,61 @@
-{"menu_title":"Our menu","menu_text":"Grilled, smoked and made to share.","gallery_title":"Gallery","gallery_text":"A look at the food and the room.","gallery":[{"image":"","category":"Food"},{"image":"","category":"Food"},{"image":"","category":"Drinks"},{"image":"","category":"Drinks"},{"image":"","category":"Interior"},{"image":"","category":"Interior"},{"image":"","category":"Events"},{"image":"","category":"Events"}],
-"res_title":"Reserve a table","res_text":"Send your request by email or WhatsApp and we will confirm your table.","about_title":"About Ember Kitchen","about_text":"A restaurant and bar where fire is the main ingredient.","about_image":"","values":[{"title":"Cooked with fire","text":"Charcoal and wood give our grills their depth and character."},{"title":"Two traditions, one table","text":"Nigerian favourites sit beside continental classics on the same menu."},{"title":"Made for gathering","text":"A warm room for dates, family dinners and celebrations."}],"contact_title":"Contact us","contact_text":"Questions, events or large bookings? Send us a message."}
+{
+  "menu_title": "Our menu",
+  "menu_text": "Grilled, smoked and made to share.",
+  "gallery_title": "Gallery",
+  "gallery_text": "A look at the food and the room.",
+  "gallery": [
+    {
+      "image": "/assets/uploads/IMG_4722.jpeg",
+      "category": "Food"
+    },
+    {
+      "image": "/assets/uploads/IMG_4724.jpeg",
+      "category": "Food"
+    },
+    {
+      "image": "/assets/uploads/IMG_4726.jpeg",
+      "category": "Drinks"
+    },
+    {
+      "image": "/assets/uploads/IMG_4727.jpeg",
+      "category": "Drinks"
+    },
+    {
+      "image": "/assets/uploads/IMG_4729.jpeg",
+      "category": "Interior"
+    },
+    {
+      "image": "/assets/uploads/IMG_4728.jpeg",
+      "category": "Interior"
+    },
+    {
+      "image": "/assets/uploads/IMG_4731.jpeg",
+      "category": "Events"
+    },
+    {
+      "image": "/assets/uploads/IMG_4730.jpeg",
+      "category": "Events"
+    }
+  ],
+  "res_title": "Reserve a table",
+  "res_text": "Send your request by email or WhatsApp and we will confirm your table.",
+  "about_title": "About Ember Kitchen",
+  "about_text": "A restaurant and bar where fire is the main ingredient.",
+  "about_image": "",
+  "values": [
+    {
+      "title": "Cooked with fire",
+      "text": "Charcoal and wood give our grills their depth and character."
+    },
+    {
+      "title": "Two traditions, one table",
+      "text": "Nigerian favourites sit beside continental classics on the same menu."
+    },
+    {
+      "title": "Made for gathering",
+      "text": "A warm room for dates, family dinners and celebrations."
+    }
+  ],
+  "contact_title": "Contact us",
+  "contact_text": "Questions, events or large bookings? Send us a message."
+}
