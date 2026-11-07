@@ -1,17 +1,170 @@
-{"items":[
-{"name":"Suya Skewers","category":"Starters","description":"Spiced grilled beef with onions, tomato and yaji.","price":"5,500","tags":["Spicy"],"image":"","special":true},
-{"name":"Peppered Gizzard","category":"Starters","description":"Tender gizzard tossed in a smoky pepper sauce.","price":"4,500","tags":["Spicy"],"image":"","special":false},
-{"name":"Calamari Fritti","category":"Starters","description":"Crisp squid rings with lemon and garlic aioli.","price":"7,500","tags":[],"image":"","special":false},
-{"name":"Goat Meat Pepper Soup","category":"Starters","description":"A warming broth of goat meat and aromatic spices.","price":"6,000","tags":["Spicy"],"image":"","special":false},
-{"name":"Smoked Jollof with Grilled Chicken","category":"Mains","description":"Party-style smoked jollof rice with a charcoal chicken quarter.","price":"9,500","tags":["Chef’s pick"],"image":"","special":true},
-{"name":"Ribeye Steak","category":"Mains","description":"300g ribeye grilled over charcoal with herb butter.","price":"22,000","tags":["Chef’s pick"],"image":"","special":true},
-{"name":"Grilled Sea Bass","category":"Mains","description":"Whole sea bass with lemon, herbs and charred vegetables.","price":"18,500","tags":[],"image":"","special":true},
-{"name":"Prawn Linguine","category":"Mains","description":"Linguine with garlic prawns, chilli and white wine.","price":"16,000","tags":[],"image":"","special":false},
-{"name":"Ofada Rice and Ayamase","category":"Mains","description":"Local rice served with green pepper stew.","price":"10,500","tags":["Spicy"],"image":"","special":false},
-{"name":"Garden Vegetable Risotto","category":"Mains","description":"Creamy risotto with seasonal vegetables and parmesan.","price":"11,000","tags":["Vegetarian"],"image":"","special":false},
-{"name":"Fried Plantain","category":"Sides","description":"Sweet, golden plantain.","price":"3,000","tags":["Vegetarian"],"image":"","special":false},
-{"name":"Truffle Fries","category":"Sides","description":"Skin-on fries with truffle oil and parmesan.","price":"5,000","tags":["Vegetarian"],"image":"","special":false},
-{"name":"Chocolate Fondant","category":"Desserts","description":"Warm chocolate cake with a molten centre and vanilla ice cream.","price":"7,000","tags":["Chef’s pick"],"image":"","special":true},
-{"name":"Puff Puff with Caramel","category":"Desserts","description":"Soft puff puff with salted caramel for dipping.","price":"5,500","tags":["Vegetarian"],"image":"","special":false},
-{"name":"Zobo Mojito","category":"Drinks","description":"Hibiscus, mint and lime, served over ice.","price":"4,500","tags":[],"image":"","special":false},
-{"name":"Chapman","category":"Drinks","description":"The classic Nigerian cocktail, fruity and fizzy.","price":"4,000","tags":[],"image":"","special":false}]}
+{
+  "items": [
+    {
+      "name": "Suya Skewers",
+      "category": "Starters",
+      "description": "Spiced grilled beef with onions, tomato and yaji.",
+      "price": "5,500",
+      "tags": [
+        "Spicy"
+      ],
+      "image": "/assets/uploads/IMG_4733.jpeg",
+      "special": true
+    },
+    {
+      "name": "Peppered Gizzard",
+      "category": "Starters",
+      "description": "Tender gizzard tossed in a smoky pepper sauce.",
+      "price": "4,500",
+      "tags": [
+        "Spicy"
+      ],
+      "image": "",
+      "special": false
+    },
+    {
+      "name": "Calamari Fritti",
+      "category": "Starters",
+      "description": "Crisp squid rings with lemon and garlic aioli.",
+      "price": "7,500",
+      "tags": [],
+      "image": "",
+      "special": false
+    },
+    {
+      "name": "Goat Meat Pepper Soup",
+      "category": "Starters",
+      "description": "A warming broth of goat meat and aromatic spices.",
+      "price": "6,000",
+      "tags": [
+        "Spicy"
+      ],
+      "image": "",
+      "special": false
+    },
+    {
+      "name": "Smoked Jollof with Grilled Chicken",
+      "category": "Mains",
+      "description": "Party-style smoked jollof rice with a charcoal chicken quarter.",
+      "price": "9,500",
+      "tags": [
+        "Chef’s pick"
+      ],
+      "image": "/assets/uploads/IMG_4734.jpeg",
+      "special": true
+    },
+    {
+      "name": "Ribeye Steak",
+      "category": "Mains",
+      "description": "300g ribeye grilled over charcoal with herb butter.",
+      "price": "22,000",
+      "tags": [
+        "Chef’s pick"
+      ],
+      "image": "/assets/uploads/IMG_4735.jpeg",
+      "special": true
+    },
+    {
+      "name": "Grilled Sea Bass",
+      "category": "Mains",
+      "description": "Whole sea bass with lemon, herbs and charred vegetables.",
+      "price": "18,500",
+      "tags": [],
+      "image": "/assets/uploads/IMG_4736.jpeg",
+      "special": true
+    },
+    {
+      "name": "Prawn Linguine",
+      "category": "Mains",
+      "description": "Linguine with garlic prawns, chilli and white wine.",
+      "price": "16,000",
+      "tags": [],
+      "image": "",
+      "special": false
+    },
+    {
+      "name": "Ofada Rice and Ayamase",
+      "category": "Mains",
+      "description": "Local rice served with green pepper stew.",
+      "price": "10,500",
+      "tags": [
+        "Spicy"
+      ],
+      "image": "",
+      "special": false
+    },
+    {
+      "name": "Garden Vegetable Risotto",
+      "category": "Mains",
+      "description": "Creamy risotto with seasonal vegetables and parmesan.",
+      "price": "11,000",
+      "tags": [
+        "Vegetarian"
+      ],
+      "image": "",
+      "special": false
+    },
+    {
+      "name": "Fried Plantain",
+      "category": "Sides",
+      "description": "Sweet, golden plantain.",
+      "price": "3,000",
+      "tags": [
+        "Vegetarian"
+      ],
+      "image": "",
+      "special": false
+    },
+    {
+      "name": "Truffle Fries",
+      "category": "Sides",
+      "description": "Skin-on fries with truffle oil and parmesan.",
+      "price": "5,000",
+      "tags": [
+        "Vegetarian"
+      ],
+      "image": "",
+      "special": false
+    },
+    {
+      "name": "Chocolate Fondant",
+      "category": "Desserts",
+      "description": "Warm chocolate cake with a molten centre and vanilla ice cream.",
+      "price": "7,000",
+      "tags": [
+        "Chef’s pick"
+      ],
+      "image": "/assets/uploads/IMG_4737.jpeg",
+      "special": true
+    },
+    {
+      "name": "Puff Puff with Caramel",
+      "category": "Desserts",
+      "description": "Soft puff puff with salted caramel for dipping.",
+      "price": "5,500",
+      "tags": [
+        "Vegetarian"
+      ],
+      "image": "",
+      "special": false
+    },
+    {
+      "name": "Zobo Mojito",
+      "category": "Drinks",
+      "description": "Hibiscus, mint and lime, served over ice.",
+      "price": "4,500",
+      "tags": [],
+      "image": "",
+      "special": false
+    },
+    {
+      "name": "Chapman",
+      "category": "Drinks",
+      "description": "The classic Nigerian cocktail, fruity and fizzy.",
+      "price": "4,000",
+      "tags": [],
+      "image": "",
+      "special": false
+    }
+  ]
+}
