@@ -1,2 +1,82 @@
-{"slides":[{"image":"","title":"Fire, flavour and good company.","text":"Wood-fired grills, Nigerian classics and continental favourites in the heart of Abuja.","button":"Reserve a table","link":"reservations.html"},{"image":"","title":"Made over open flame.","text":"Slow-smoked, charred and finished by hand, every night.","button":"See the menu","link":"menu.html"},{"image":"","title":"Your table is waiting.","text":"Dinners, birthdays and long evenings with friends.","button":"Book now","link":"reservations.html"}],
-"intro_title":"A kitchen built around fire.","intro_text":"Ember Kitchen brings together the smoky flavours of Nigerian cooking and the techniques of the continental grill, served in a warm, candlelit room.","specials_title":"Chef’s specials","pillars_title":"The Ember way","pillars":[{"title":"Real fire","text":"Our grill runs on charcoal and wood for depth you can taste."},{"title":"Honest ingredients","text":"Fresh produce, careful sourcing and seasoning done properly."},{"title":"Warm hospitality","text":"A relaxed room and a team that looks after every table."}],"video_title":"Inside the kitchen","video_url":"","tm_title":"What guests say","testimonials":[{"quote":"The suya and the ribeye were the best I have had in Abuja.","name":"Sample guest"},{"quote":"Beautiful room, attentive staff and food worth coming back for.","name":"Sample guest"},{"quote":"We celebrated a birthday here and everything was perfect.","name":"Sample guest"}],"faq_title":"Good to know","faq":[{"q":"Do I need to reserve?","a":"Reservations are recommended, especially on weekends. Walk-ins are welcome when there is space."},{"q":"Do you have vegetarian options?","a":"Yes. Look for the Vegetarian tag on the menu, or ask your server."},{"q":"Can I book for a large group or private event?","a":"Yes. Send a message with your date and number of guests and we will arrange it."},{"q":"Is there parking?","a":"Yes, parking is available near the restaurant."}],"cta_title":"Join us for dinner.","cta_text":"Send a reservation request and we will confirm your table.","cta_button":"Reserve a table"}
+{
+  "slides": [
+    {
+      "image": "/assets/uploads/IMG_4720.jpeg",
+      "title": "Fire, flavour and good company.",
+      "text": "Wood-fired grills, Nigerian classics and continental favourites in the heart of Abuja.",
+      "button": "Reserve a table",
+      "link": "reservations.html"
+    },
+    {
+      "image": "/assets/uploads/IMG_4719.jpeg",
+      "title": "Made over open flame.",
+      "text": "Slow-smoked, charred and finished by hand, every night.",
+      "button": "See the menu",
+      "link": "menu.html"
+    },
+    {
+      "image": "/assets/uploads/IMG_4721.jpeg",
+      "title": "Your table is waiting.",
+      "text": "Dinners, birthdays and long evenings with friends.",
+      "button": "Book now",
+      "link": "reservations.html"
+    }
+  ],
+  "intro_title": "A kitchen built around fire and taste.",
+  "intro_text": "Ember Kitchen brings together the smoky flavours of Nigerian cooking and the techniques of the continental grill, served in a warm, candlelit room.",
+  "specials_title": "Chef’s specials",
+  "pillars_title": "The Ember way",
+  "pillars": [
+    {
+      "title": "Real fire",
+      "text": "Our grill runs on charcoal and wood for depth you can taste."
+    },
+    {
+      "title": "Pure ingredients",
+      "text": "Fresh produce, careful sourcing and seasoning done properly."
+    },
+    {
+      "title": "Warm hospitality",
+      "text": "A relaxed room and a team that looks after every table."
+    }
+  ],
+  "video_title": "Inside the kitchen",
+  "video_url": "",
+  "tm_title": "What guests say",
+  "testimonials": [
+    {
+      "quote": "The suya and the ribeye were the best I have had in Abuja.",
+      "name": "Fola"
+    },
+    {
+      "quote": "Beautiful room, attentive staff and food worth coming back for.",
+      "name": "Chinelo"
+    },
+    {
+      "quote": "We celebrated a birthday here and everything was perfect.",
+      "name": "Halima and friends"
+    }
+  ],
+  "faq_title": "Good to know",
+  "faq": [
+    {
+      "q": "Do I need to reserve?",
+      "a": "Reservations are recommended, especially on weekends. Walk-ins are welcome when there is space."
+    },
+    {
+      "q": "Do you have vegetarian options?",
+      "a": "Yes. Look for the Vegetarian tag on the menu, or ask your server."
+    },
+    {
+      "q": "Can I book for a large group or private event?",
+      "a": "Yes. Send a message with your date and number of guests and we will arrange it."
+    },
+    {
+      "q": "Is there parking?",
+      "a": "Yes, parking is available outside the restaurant."
+    }
+  ],
+  "cta_title": "Join us for breakfast, brunch, lunch or dinner.",
+  "cta_text": "Send a reservation request and we will confirm your table.",
+  "cta_button": "Reserve a table"
+}
